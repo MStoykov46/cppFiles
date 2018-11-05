@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526389455 source:c:\users\35987\desktop\c++\zadachi ot nbu 1,2 semestur\nodelist\main.cpp
+	<iostream>
+	<string>
+	<cassert>
+

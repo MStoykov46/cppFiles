@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1528800166 source:c:\users\35987\desktop\new folder\matrix\main.cpp
+	<iostream>
+	<iomanip>
+	<cassert>
+
